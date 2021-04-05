@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-
+A few more details for testing
 
 ## Purpose
 
