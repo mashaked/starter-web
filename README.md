@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 bla bla 
 
 Adding new paragraph to the file
+
+copyright notice
