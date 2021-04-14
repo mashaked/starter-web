@@ -15,3 +15,4 @@ Adding new paragraph to the file
 copyright notice
 
 #How to Contribute
+Adding a line for rebasing example
